@@ -1,0 +1,4 @@
+- [M4M engine and blockchain middleware](https://github.com/meta4d-me)
+- [M4M ai tools and applications](https://github.com/m4m-ai), e.g., M4M AI Game Web IDE
+- [M4M native applications](https://github.com/m4m-app)
+- [M4M (sample) games](https://github.com/m4m-games)
